@@ -2,3 +2,8 @@ body {
     background-image:url('assets/omfgdogs.gif');
 }
 
+#btrightCorner{
+     position:absolute;
+     bottom:0;
+     right:0:
+}
